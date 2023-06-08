@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "strange-radius-389119",
+  "private_key_id": "251b13aa5a58f4213afa25c1e29bef5c4149ed2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKRYL9i06U1yrq\nkPsAwiEr+XRZ2j0bYtagIpERMzxpcRf3nzDIQcZBmghLj5Z/UDUspZZS8rHWaNJA\neLpsfsucQIR0o2jR11EJ+PDPQtGmhfb7YwxvWUwKZHDxpaPuK9pLtSz+diicYbbd\ncss6aCInMwD4w4wxhdaeyvz6yAbtY9b1JhT2zGl+Amhu56Nlhu/9Q570Bupu3F+y\nuk32yHoGyCqjpq3sk9PQClOOf2/Nc6K0/OTIsk7D+HBak5HA/1szy6b/NXyK/W2v\nmgON3Jls5RnORuLXrG38E8UnBwKUuqBmSCpO3x22E7ZB7iwxGYRlowxGMzbIXqxz\nUkEjeUxXAgMBAAECggEAHIiTwuqM6kg0IKTVE7VO8qIc/LPhnORjfHGD31ZH9mPi\nyqalPgqxSf3Nn8MgqtMIvUSaoRblaWaeCkQ9oCJ+3IrpZH7MwZVLNEnuxn4ZjxEk\n1y+QyIBjTq/+ksgYCPgcskNbloXakrziC/kunA2mi7sRLwZ+11mW/g2KhGIFQCVu\nL8wSuhQEJOjf5jLY3iw1xxGl8dwPTmrLey2TlJM6QzIyPYi1cd6WeslgsRPIgl92\nm9IPMLzrlCnoDGz4drk67KD88afyX7VzByEVilIQHgaZUNCHTEmXjN03U1n7P3Lm\neNx+B+ns5iQ+V5THp4ateEVSj0rKsT2hDBkdsN/ioQKBgQDmIrgpawC3975a7Ssk\nBbf5jzA0NnBGUNFiEJdUKq8dxR6rTMm5eT9xmR9bfBuaUZ+kCtu6RzMhQ4iBEEqw\nUaJQZUcBAcMwqDebB4hegWLR5jU9Epz6WcEExl9alKgNFVyqyEDWznPGUeCK1HXV\n2S/F+j0yroikAJOCvn7/94WqBwKBgQDhARvNhnVgJMtTrD+cZLw3qVJww1kUhzWN\n2NL03TeaYe/KuIBw52hsCMoIF5Upk2vZzOsO52Ux9SPOqVGF7Qg1NHo/oKh8dvpb\n/HBwXrNAx+8ZJIE6PWAv2Y6HvfKPqsgnvnSRmbrRlp7fcwhSdU+zbYISSS5osJR3\nRoBMm7H3MQKBgB7JIDeyL7tscdN6DJ5aAX1p8Tna2nQdlZT3wTaqKxjhaLPjpsyf\n8qPApxg25v5i0uc/6JrnsWhOv3D8e/FQSlVU5wW0dacJqb6caFq0FkMb950+4y7+\nWLrJyrG0VzLA28+g0EOsBILQKyiHOWgtEJ38Vrlz7aV6ykDgON8G/qN7AoGBAMKq\nLt+1wL8ZlkAh+jbYgG63s3eTyvITuKWsPXdUHNMYgFmnHpiP3Kv7Pq+Zl5eMz/Zz\nb7pJQCfkqsIVg06XME63xDxgRuTIGvqSgMT3aaZWU+owxw0YJKvBUarnD4B0hQ69\nnCSMGDFUWsd/wmd0zyuxRqODZP92Jjy7ZizhVytBAoGAJiZnafei5gM6kh+bZkTx\niOX1k3S6XhZ32tiudLsO1R/vDZMkwSfpL1yEyknAG65BT0EhlhwCzdaLjfJFVUDG\nHbocKNyEtfcobttLppncjy6oJLSpx9vMwfEv6zfwZ/4WPvEVHeNbifGiu46NhHN7\nlB3/ueG17DTYMsNlRLevp24=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sales-913@strange-radius-389119.iam.gserviceaccount.com",
+  "client_id": "107920164430075788061",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sales-913%40strange-radius-389119.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
